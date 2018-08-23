@@ -11,9 +11,11 @@
 }
 
 .buttonareaclass{
+    width: 50%;
     padding: 10px 50px;
-    margin-left: 20%;
+    margin-left: 25%;
     font-size: 20px;
+    cursor: pointer;
 }
 
 .blue{

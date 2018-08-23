@@ -7,7 +7,6 @@ class Header extends Component{
         return(
             <div className="header" style={{color:this.props.color}}>
                 这里是Header部分
-                <div>{this.props.color}</div>
             </div>
         )
     }
