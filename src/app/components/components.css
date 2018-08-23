@@ -1,0 +1,25 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+
+.header{
+    width: 100%;
+    height: 300px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.buttonareaclass{
+    padding: 10px 50px;
+    margin-left: 20%;
+    font-size: 20px;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.red{
+    background-color: red;
+}
