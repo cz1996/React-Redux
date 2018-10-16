@@ -1,4 +1,4 @@
-详情见：https://blog.csdn.net/cccz1996/article/details/81985829
+详情见：<a target = "_blank" href='https://blog.csdn.net/cccz1996/article/details/81985829' >https://blog.csdn.net/cccz1996/article/details/81985829<a/>
 
 
 ## React-Redux和React-Router入门Demo代码讲解##
